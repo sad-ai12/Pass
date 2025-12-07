@@ -6,7 +6,7 @@ import os
 
 # ╔══════════════════════════════════════════════════════════════════════════════╗
 # ║                  🔥 PASSWORD CRACKER TOOL (OFFLINE) 🔥                      ║
-# ║                         Coded with 💀 by Grok                                ║
+# ║                         Coded with 💀 by SADHIN                              ║
 # ╚══════════════════════════════════════════════════════════════════════════════╝
 
 def loading_animation():
